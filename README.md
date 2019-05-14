@@ -8,7 +8,7 @@ The unreal engine project for the PSCR Haptic Challenge.
 Information about the challenge can be found on the official challenge website.
 *Link Below*
 
-###[Haptic Challenge Website](https://publicsafetyhaptics.com/)
+### [Haptic Challenge Website](https://publicsafetyhaptics.com/)
 
 ## Project Description
 
