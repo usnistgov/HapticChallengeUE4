@@ -1,18 +1,19 @@
 # [PSCR](https://www.nist.gov/communications-technology-laboratory/pscr) Haptic Challenge
 
-*The unreal engine project for the PSCR Haptic Challenge.*
+The unreal engine project for the PSCR Haptic Challenge.
 *Please Note - This Read Me document is still in active development and is subject to change*
 
 ## Challenge Information
 
-*Information about the challenge can be found on the official challenge website*
+Information about the challenge can be found on the official challenge website.
+*Link Below*
 
-[Haptic Challenge Website](https://publicsafetyhaptics.com/)
+###[Haptic Challenge Website](https://publicsafetyhaptics.com/)
 
 ## Project Description
 
 This Unreal Engine project has been created specifically for the PSCR Haptic Challenge. It features three different first responder scenarios that will be leveraged by the challenge contestants.
-*This project is not limited to only those taking part in the challenge. Others are free to use it with the caveat that it is not intended to be commercialized as a product. It is intended to be a tool to assist in research and development.*
+This project is not limited to only those taking part in the challenge. Others are free to use it with the caveat that it is not intended to be commercialized as a product. It is intended to be a tool to assist in research and development.
 
 The scenarios include the following:
 
@@ -34,7 +35,7 @@ The scenarios include the following:
    - If you are using the VIVE or VIVE Pro please note that we developed using the standard vive controllers (not the knuckles) and the v1 Base Stations. Since we did not develope with the knuckles or v2.0 Base Stations in mind, using either may result in unforseen errors or bugs.
 3. Project Style Guide
    - We have our own style guide for UE4 based on the style guide by Allar. We reccomend adhearing to the style guide in order to reduce bugs and make parsing easier.
-     - *Style Guide goes here*
+     - *(Style Guide goes here)*
 4. Submitting bugs
    - If you encounter a bug please try and reproduce the bug and then submit a bug report to us through the issues tab of the GitHub page.
      - *There is a premade template for bug submissions.*
