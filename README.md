@@ -40,8 +40,22 @@ The scenarios include the following:
    - If you encounter a bug please try and reproduce the bug and then submit a bug report to us through the issues tab of the GitHub page.
      - *There is a premade template for bug submissions.*
 
-TODO Project structure
+## What can be altered
 
-TODO What not to change
+Due to the judging requirements for this challenge, the majority of the project cannot be changed. If there is something you wish to change that is not on this list and or you have a question about an item on this list please reach out.
 
-TODO Known issues
+* Levels/ Maps
+  - The layout and look of the levels should not be altered in any way in order to maintain a fair comparison between contestants. The following changes are not allowed:
+    - Changing the player starting location.
+    - Moving, scaling or rotating any piece of the level including all props and gameplay objects within the level.
+    - Altering the lighting or post processing of a level.
+    - Removing or replacing environment/player sounds.
+    - Altering or removing visual effects. (e.g. volumetric smoke, fire, lights etc.)
+    - Adding any elements to the level that change the look of the level. (e.g. adding posters on a wall, changing the color of a desk, adding a lamp in the corner etc.)
+
+* Gameplay
+  - No changes should be made to the core gameplay functionality. The following changes are not allowed:
+    - Altering the controller input map. (e.g. changing the functionality of a game mechanic from the trigger to the grip button)
+    - Changing the players method of movement or movement speed. (e.g. changing the VR locomotion method or moving teleport nodes)
+    - Using an alterative input method. (e.g. using leap motion for hand input instead of the VR controllers)
+    - Altering the menu system design or functionality.
