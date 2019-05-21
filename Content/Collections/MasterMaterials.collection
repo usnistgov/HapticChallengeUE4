@@ -1,0 +1,14 @@
+FileVersion:2
+Type:Static
+Guid:4523C57D-4259-DFDB-61A5-8686BC2D1F7E
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/HapticChallenge/Core/MaterialLibrary/M_Atlas4x4Master.M_Atlas4x4Master
+/Game/HapticChallenge/Core/MaterialLibrary/M_DecalEmissiveMaster.M_DecalEmissiveMaster
+/Game/HapticChallenge/Core/MaterialLibrary/M_DecalMaster.M_DecalMaster
+/Game/HapticChallenge/Core/MaterialLibrary/M_EnvMaskedMaster.M_EnvMaskedMaster
+/Game/HapticChallenge/Core/MaterialLibrary/M_EnvMaster.M_EnvMaster
+/Game/HapticChallenge/Core/MaterialLibrary/M_EnvTwoSidedMaster.M_EnvTwoSidedMaster
+/Game/HapticChallenge/Core/MaterialLibrary/M_GrayBoxMaster.M_GrayBoxMaster
+/Game/HapticChallenge/Core/MaterialLibrary/M_GrayBoxTranslucentMaster.M_GrayBoxTranslucentMaster
+/Game/HapticChallenge/Core/MaterialLibrary/M_PlainColorMaster.M_PlainColorMaster
