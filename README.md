@@ -32,10 +32,9 @@ The scenarios include the following:
 2. VR Headsets and Systems
    - The entire project was developed with SteamVR. If you are using a non VIVE headset make sure that you set it up with steamVR in order for the mechanics to work properly.
    - Since we did the vast majority of our development using the VIVE and VIVE Pro headsets we reccomend using either of these. We did also develop for the Oculus Rift and the Samsung Odyssey. However, due to our small team size we did not perform as much QA testing with the Oculus or the Samsung compared to the VIVE. So, the Oculus and Samsung will be more error prone.
-   - If you are using the VIVE or VIVE Pro please note that we developed using the standard vive controllers (not the knuckles) and the v1 Base Stations. Since we did not develope with the knuckles or v2.0 Base Stations in mind, using either may result in unforseen errors or bugs.
+   - If you are using the VIVE or VIVE Pro please note that we developed using the standard vive controllers (not the knuckles) and the v1 Base Stations. Since we did not develop with the knuckles or v2.0 Base Stations in mind, using either may result in unforseen errors or bugs.
 3. Project Style Guide
    - We have our own style guide for UE4 based on the style guide by Allar. We reccomend adhearing to the style guide in order to reduce bugs and make parsing easier.
-     - *(Style Guide goes here)*
 4. Submitting bugs
    - If you encounter a bug please try and reproduce the bug and then submit a bug report to us through the issues tab of the GitHub page.
      - *There is a premade template for bug submissions.*
