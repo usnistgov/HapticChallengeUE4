@@ -3,13 +3,6 @@
 The unreal engine project for the PSCR Haptic Challenge.
 *Please Note - This Read Me document is still in active development and is subject to change*
 
-## Challenge Information
-
-Information about the challenge can be found on the official challenge website.
-*Link Below*
-
-### [Haptic Challenge Website](https://publicsafetyhaptics.com/)
-
 ## Project Description
 
 This Unreal Engine project has been created specifically for the PSCR Haptic Challenge. It features three different first responder scenarios that will be leveraged by the challenge contestants.
